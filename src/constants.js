@@ -41,7 +41,7 @@ import Centurion_University_of_Technology_and_Management_Logo from "./assets/edu
 import clgLogo from "./assets/education_logo/clgLogo.jpeg";
 
 // Project Section Logo's
-import WanderlustLogo from "./assets/work_logo/WanderlustLogo.png";
+import WanderlustLogo from "./assets/work_logo/wanderlustLogo.png";
 import zoomLogo from "./assets/work_logo/zoomLogo.png";
 import instaLogo from "./assets/work_logo/instaLogo.png";
 
